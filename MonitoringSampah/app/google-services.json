@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "449299851341",
+    "firebase_url": "https://love-project-c1ac0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "love-project-c1ac0",
+    "storage_bucket": "love-project-c1ac0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449299851341:android:38c566590c289c81c45404",
+        "android_client_info": {
+          "package_name": "com.polinema.pml002"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHQb8-4H_QaMs0sUm6nLWM-aA-pL7rus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449299851341:android:566d855b278c0d20c45404",
+        "android_client_info": {
+          "package_name": "com.polinema.pml003"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHQb8-4H_QaMs0sUm6nLWM-aA-pL7rus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449299851341:android:442d2b87a2477327c45404",
+        "android_client_info": {
+          "package_name": "com.polinema.pml01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHQb8-4H_QaMs0sUm6nLWM-aA-pL7rus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449299851341:android:0298942635795316c45404",
+        "android_client_info": {
+          "package_name": "com.polinema.pml04"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHQb8-4H_QaMs0sUm6nLWM-aA-pL7rus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449299851341:android:74faece405efafa5c45404",
+        "android_client_info": {
+          "package_name": "com.polinema.pml06"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHQb8-4H_QaMs0sUm6nLWM-aA-pL7rus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449299851341:android:78e031d0d783cc79c45404",
+        "android_client_info": {
+          "package_name": "com.proyek.monitoringsampah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHQb8-4H_QaMs0sUm6nLWM-aA-pL7rus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449299851341-2njehicjfflkfnmc6faatv4kgv9jarpu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
